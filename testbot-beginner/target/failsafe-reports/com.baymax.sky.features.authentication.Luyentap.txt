@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.baymax.sky.features.authentication.Luyentap
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 30.606 s <<< FAILURE! - in com.baymax.sky.features.authentication.Luyentap
+com.baymax.sky.features.authentication.Luyentap.login_as_invalid_user_when_should_see_warning_message_luyentap  Time elapsed: 23.102 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expecting Sai tài khoản hoặc mật khẩu! with text value that is equal to: <"Sai tài khoản hoặc mật khẩu!">
+But got................................................................: <"Bạn đã đăng nhập sai thông tin 2 lần, nếu quá 5 lần tài khoản sẽ bị khoá">
+	at testbot.beginner@1.0-SNAPSHOT/com.baymax.sky.features.authentication.Luyentap.login_as_invalid_user_when_should_see_warning_message_luyentap(Luyentap.java:44)
+
