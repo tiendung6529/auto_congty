@@ -1,8 +1,5 @@
-D:\baymaxsky-workingspace\testbot-beginner\src\test\java\com\baymax\sky\features\authentication\DatadriventestingBai9.java
-D:\baymaxsky-workingspace\testbot-beginner\src\test\java\com\baymax\sky\features\authentication\WhenOpeningPageURLOnEnvironmentsStory.java
-D:\baymaxsky-workingspace\testbot-beginner\src\test\java\com\baymax\sky\features\tasks\Login.java
-D:\baymaxsky-workingspace\testbot-beginner\src\test\java\com\baymax\sky\features\authentication\GroupingInteractionsBai8.java
-D:\baymaxsky-workingspace\testbot-beginner\src\test\java\com\baymax\sky\features\authentication\WhenLoggingAsInvalidUserStory.java
-D:\baymaxsky-workingspace\testbot-beginner\src\test\java\com\baymax\sky\features\authentication\Luyentap.java
-D:\baymaxsky-workingspace\testbot-beginner\src\test\java\com\baymax\sky\features\authentication\WhenProvidingAuUsernameAndPasswordStory.java
-D:\baymaxsky-workingspace\testbot-beginner\src\test\java\com\baymax\sky\features\ui\HomePage.java
+D:\bddcreen\testbot-beginner\src\test\java\com\baymax\sky\features\Entity\HR.java
+D:\bddcreen\testbot-beginner\src\test\java\com\baymax\sky\features\tasks\Login_UAT_HR.java
+D:\bddcreen\testbot-beginner\src\test\java\com\baymax\sky\features\Entity\TongDaiVien.java
+D:\bddcreen\testbot-beginner\src\test\java\com\baymax\sky\features\ui\HomePage.java
+D:\bddcreen\testbot-beginner\src\test\java\com\baymax\sky\features\authentication\WhenTongDaiVien.java

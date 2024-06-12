@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="1" name="com.baymax.sky.features.authentication.Luyentap" skipped="0" tests="1" time="23.98" timestamp="2024-05-26 09:48:04"><testcase classname="com.baymax.sky.features.authentication.Luyentap" name="Login as invalid user when should see warning message luyentap"><failure message="&#10;Expecting Sai tài khoản hoặc mật khẩu! with text value that is equal to: &lt;&quot;Sai tài khoản hoặc mật khẩu!&quot;&gt;&#10;But got................................................................: &lt;&quot;Bạn đã đăng nhập sai thông tin 2 lần, nếu quá 5 lần tài khoản sẽ bị khoá&quot;&gt;" type="java.lang.AssertionError">
-Expecting Sai tài khoản hoặc mật khẩu! with text value that is equal to: &lt;"Sai tài khoản hoặc mật khẩu!"&gt;
-But got................................................................: &lt;"Bạn đã đăng nhập sai thông tin 2 lần, nếu quá 5 lần tài khoản sẽ bị khoá"&gt;</failure><system-err>
-Expecting Sai tài khoản hoặc mật khẩu! with text value that is equal to: &lt;"Sai tài khoản hoặc mật khẩu!"&gt;
-But got................................................................: &lt;"Bạn đã đăng nhập sai thông tin 2 lần, nếu quá 5 lần tài khoản sẽ bị khoá"&gt;&#13;
-testbot.beginner@1.0-SNAPSHOT/com.baymax.sky.features.authentication.Luyentap.login_as_invalid_user_when_should_see_warning_message_luyentap(Luyentap.java:44)&#13;
-</system-err></testcase></testsuite>
